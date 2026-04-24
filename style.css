@@ -7,19 +7,7 @@ body {
 
 
 nav {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    background: #326080;
-    color: white;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    margin-left: 20px;
-}
-
+    display: flexuhy
 
 .hero {
     text-align: center;
