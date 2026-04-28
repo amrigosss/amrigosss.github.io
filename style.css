@@ -8,15 +8,6 @@ nav {
 .hero h1 {
     font-size: 40px;
 }
-
-.btn {
-    background: #805232;
-    color: white;
-    paddi
-    border-radius: 20px;
-    text-decoration: none;
-}
-
 /* SECTIONS */
 section {
     padding: 50px;
