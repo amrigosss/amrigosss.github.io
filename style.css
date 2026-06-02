@@ -10,3 +10,9 @@ body {
     background: #FFF1E7;
     c
 
+.hero p {
+        font-size: 18px;
+    }
+
+    section {
+        padding: 60px 20px;
